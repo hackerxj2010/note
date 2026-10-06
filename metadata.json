@@ -1,0 +1,6 @@
+{
+  "name": "AuraNote — Carnet Sémantique & Canvas",
+  "description": "Un canvas d'écriture minimaliste et élégant avec surlignage sémantique par IA selon la profondeur et l'importance des idées.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
